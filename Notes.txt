@@ -1,0 +1,13 @@
+--- classes need
+    tut series object
+        -- files
+        -- company
+        -- year
+        -- softwares
+        -- working files
+        -- locations
+        -- parent series
+        -- author
+        -- 
+
+    
